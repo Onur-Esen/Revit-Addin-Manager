@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Revit_Addin_Manager
+build_property.ProjectDir = D:\VS\Revit Addin Manager\Revit Addin Manager\

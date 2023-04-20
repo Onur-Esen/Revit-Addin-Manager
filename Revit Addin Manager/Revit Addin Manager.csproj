@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Revit_Addin_Manager</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>plugin.ico</ApplicationIcon>
+    <StartupObject>Revit_Addin_Manager.Program</StartupObject>
+    <Company></Company>
+    <Authors>Onur Esen</Authors>
+  </PropertyGroup>
+
+</Project>
