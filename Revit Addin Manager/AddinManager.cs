@@ -32,8 +32,11 @@ namespace Revit_Addin_Manager
 
         private void AddinManager_Load(object sender, EventArgs e)
         {
-            comboBoxVersion.DataSource = new List<string>() { "2019", "2020", "2021", "2022", "2023", "2024" };
-            comboBoxVersion.SelectedIndex = 0;
+            List<string> versions = new List<string>() { "2019", "2020", "2021", "2022", "2023", "2024" };
+            comboBoxVersion.DataSource = versions;
+
+            int index = versions.IndexOf(Settings.Default.Version);
+            comboBoxVersion.SelectedIndex = 2;
 
             AddinListUpdate(listViewValues);
         }
@@ -275,6 +278,10 @@ namespace Revit_Addin_Manager
         private void comboBoxVersion_SelectedIndexChanged(object sender, EventArgs e)
         {
             AddinListUpdate(listViewValues);
+
+            //string version = comboBoxVersion.SelectedItem as string;
+            //Settings.Default.Version = version;
+            //Settings.Default.Save();
         }
 
         private void radioButtonLang_CheckedChanged(object sender, EventArgs e)

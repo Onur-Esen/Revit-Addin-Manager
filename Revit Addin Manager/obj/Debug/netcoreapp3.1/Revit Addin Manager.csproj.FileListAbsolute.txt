@@ -20,7 +20,6 @@ D:\VS\Revit Addin Manager\Revit Addin Manager\bin\Debug\netcoreapp3.1\Revit Addi
 D:\VS\Revit Addin Manager\Revit Addin Manager\bin\Debug\netcoreapp3.1\Revit Addin Manager.runtimeconfig.dev.json
 D:\VS\Revit Addin Manager\Revit Addin Manager\bin\Debug\netcoreapp3.1\Revit Addin Manager.dll
 D:\VS\Revit Addin Manager\Revit Addin Manager\bin\Debug\netcoreapp3.1\Revit Addin Manager.pdb
-D:\VS\Revit Addin Manager\Revit Addin Manager\obj\Debug\netcoreapp3.1\Revit Addin Manager.csproj.AssemblyReference.cache
 D:\VS\Revit Addin Manager\Revit Addin Manager\obj\Debug\netcoreapp3.1\Revit_Addin_Manager.AddinManager.resources
 D:\VS\Revit Addin Manager\Revit Addin Manager\obj\Debug\netcoreapp3.1\Revit Addin Manager.csproj.GenerateResource.cache
 D:\VS\Revit Addin Manager\Revit Addin Manager\obj\Debug\netcoreapp3.1\Revit Addin Manager.GeneratedMSBuildEditorConfig.editorconfig
