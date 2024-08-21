@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\Revit Addin Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DBA1C8-EFCB-4526-B9C3-AC6A3E1324B6}|Revit Addin Manager\\Revit Addin Manager.csproj|d:\\vs\\revit addin manager\\revit addin manager\\addinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DBA1C8-EFCB-4526-B9C3-AC6A3E1324B6}|Revit Addin Manager\\Revit Addin Manager.csproj|solutionrelative:revit addin manager\\addinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddinManager.cs [Design]",
+              "DocumentMoniker": "D:\\VS\\Revit Addin Manager\\Revit Addin Manager\\AddinManager.cs",
+              "RelativeDocumentMoniker": "Revit Addin Manager\\AddinManager.cs",
+              "ToolTip": "D:\\VS\\Revit Addin Manager\\Revit Addin Manager\\AddinManager.cs [Design]",
+              "RelativeToolTip": "Revit Addin Manager\\AddinManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:46:43.371Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
